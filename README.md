@@ -13,7 +13,7 @@ Streamlit-powered multi-disease prediction system employs machine learning model
 - Install dependencies: `pip install -r requirements.txt`
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/yourusername/multi-disease-prediction.git`
+1. Clone the repository: `git clone https://github.com/Dharaniga22/multi-disease-prediction.git`
 2. Navigate to the project directory: `cd multi-disease-prediction`
 3. Run the application: `streamlit run app.py`
 4. Open the provided URL in your web browser.
