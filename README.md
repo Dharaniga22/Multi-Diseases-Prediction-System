@@ -1,5 +1,4 @@
 # Multi-Diseases-Prediction-System
-Streamlit-powered multi-disease prediction system employs machine learning models to assess heart disease, diabetes, and Parkinson's risk.
 
 ## Overview
 Streamlit-powered multi-disease prediction system employs machine learning models to assess heart disease, diabetes, and Parkinson's risk. User-friendly interface enables quick evaluation of health risks, fostering proactive preventive measures.
